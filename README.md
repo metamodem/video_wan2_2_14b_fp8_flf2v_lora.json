@@ -1,0 +1,2 @@
+# video_wan2_2_14b_fp8_flf2v_lora.json
+Dockerized ComfyUI workflow: video_wan2_2_14B_fp8_flf2v_lora.json
